@@ -3,8 +3,8 @@ package drivers
 import (
 	"net/http"
 
-	"github.com/danilopolani/gocialite/drivers/option"
-	"github.com/danilopolani/gocialite/structs"
+	"github.com/hedhyw/gocialite/drivers/option"
+	"github.com/hedhyw/gocialite/structs"
 	"golang.org/x/oauth2/amazon"
 )
 

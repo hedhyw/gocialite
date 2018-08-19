@@ -4,7 +4,7 @@ package drivers
 import (
 	"encoding/json"
 
-	"github.com/danilopolani/gocialite/drivers/option"
+	"github.com/hedhyw/gocialite/drivers/option"
 )
 
 var drivers = make(map[string]*option.Options)
